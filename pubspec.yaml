@@ -27,6 +27,7 @@ dependencies:
   cloudinary_public: 0.23.1
   http: ^1.6.0
   googleapis_auth: ^1.4.1
+  google_sign_in: ^6.2.1
   
   # --- DEPENDENSI TAMBAHAN UNTUK NOTIFIKASI ---
   firebase_messaging: ^15.2.10

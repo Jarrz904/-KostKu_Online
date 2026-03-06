@@ -12,7 +12,20 @@
           "package_name": "com.example.aplikasi_kost"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "651833056316-5m7dhlt148ufv3hsb4j7rhm45b1khcvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi_kost",
+            "certificate_hash": "c9243bc42a97e09c501440be59102898666c5a8a"
+          }
+        },
+        {
+          "client_id": "651833056316-k4fr2vtbs89bpl5mhkr1pq3ah106suhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA9CWK-ZjJfgKFUkMDi-Eg3Ql-pXlGz1w4"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651833056316-k4fr2vtbs89bpl5mhkr1pq3ah106suhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651833056316-0rknks296h8otqlct73nji8fdfm3c7k3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiKost"
+              }
+            }
+          ]
         }
       }
     }

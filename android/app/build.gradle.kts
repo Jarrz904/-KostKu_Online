@@ -64,6 +64,6 @@ flutter {
 dependencies {
     // PERBAIKAN: Versi 2.1.4 diwajibkan oleh AGP 8.9.1
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
-    
+    classpath("com.google.gms:google-services:4.4.0")
     implementation("androidx.multidex:multidex:2.0.1")
 }
